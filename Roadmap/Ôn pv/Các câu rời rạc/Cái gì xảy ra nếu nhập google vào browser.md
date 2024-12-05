@@ -1,0 +1,17 @@
+- **DNS Resolution (Phân giải DNS)**:
+    - Trình duyệt sẽ kiểm tra bộ nhớ cache để xem liệu có bản ghi DNS nào cho `google.com` không. Nếu không có, nó sẽ gửi một truy vấn DNS đến máy chủ DNS được cấu hình trên hệ thống (thường là của ISP).
+    - Máy chủ DNS sẽ tìm kiếm địa chỉ IP tương ứng với tên miền `google.com` và trả về địa chỉ IP đó cho trình duyệt.
+- **TCP Connection (Kết nối TCP)**:
+    - Trình duyệt sẽ sử dụng địa chỉ IP nhận được để thiết lập một kết nối TCP đến máy chủ của Google trên cổng 80 (HTTP) hoặc 443 (HTTPS).
+- **SSL/TLS Handshake (Bắt tay SSL/TLS)**:
+    - Nếu truy cập qua HTTPS, trình duyệt và máy chủ sẽ thực hiện một quá trình bắt tay SSL/TLS để thiết lập một kênh kết nối bảo mật.
+- **HTTP Request (Yêu cầu HTTP)**:
+    - Trình duyệt sẽ gửi một yêu cầu HTTP GET đến máy chủ Google để yêu cầu tài nguyên trang chủ của Google.
+- **Server Response (Phản hồi từ máy chủ)**:
+    - Máy chủ của Google sẽ xử lý yêu cầu và trả về một phản hồi HTTP, bao gồm mã trạng thái (status code), tiêu đề (headers), và nội dung trang (HTML, CSS, JavaScript, ...).
+- **Rendering (Kết xuất trang web)**:
+    - Trình duyệt sẽ phân tích cú pháp và hiển thị nội dung HTML, CSS và JavaScript, kết xuất trang web cho người dùng.
+- **Additional Requests (Yêu cầu bổ sung)**:
+    - Trong quá trình kết xuất, nếu trang web có tham chiếu đến tài nguyên bổ sung như hình ảnh, CSS, JavaScript bên ngoài, trình duyệt sẽ gửi thêm các yêu cầu để tải các tài nguyên này.
+- **User Interaction (Tương tác người dùng)**:
+    - Sau khi trang được kết xuất hoàn toàn, người dùng có thể tương tác với trang web, và bất kỳ sự tương tác nào (như nhấp chuột hoặc nhập liệu) có thể gây ra các yêu cầu HTTP bổ sung hoặc xử lý JavaScript trên trang.

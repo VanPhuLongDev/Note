@@ -1,0 +1,22 @@
+{
+  "sanctum@@light-mode-contrast-mode": "sanctum-default-light",
+  "sanctum@@color-accent-rgb-l": "246, 141, 69",
+  "sanctum@@file-line-width": 40,
+  "things-style@@mobile-black-background": false,
+  "things-style@@default-font-color": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "anuppuccin-theme-settings@@anp-editor-font-source": "Mono Code",
+  "anuppuccin-theme-settings@@anp-editor-font-lp": "Mono Code",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
+  "floating-toc-styles@@floating-toc-remove-heading-indicator": true,
+  "floating-toc-styles@@toggle-floating-toc-header-color": false,
+  "floating-toc-styles@@enable-heading-nowrap": true,
+  "floating-toc-styles@@floating-toc-font-size": 1.5,
+  "floating-toc-styles@@enable-outline-style": "default-outline-style",
+  "floating-toc-styles@@enable-bar-icon": false,
+  "blue-topaz-theme@@retain-header-color": false,
+  "blue-topaz-theme@@h3-size": "1.0625em",
+  "blue-topaz-theme@@h2-size": "1.0625em",
+  "blue-topaz-theme@@h4-size": "1.0625em"
+}

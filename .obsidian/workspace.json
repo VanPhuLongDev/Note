@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "f9611ffc5adf2575",
+    "type": "split",
+    "children": [
+      {
+        "id": "da2d61e51e903da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f6703a246dd5ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note"
+            }
+          },
+          {
+            "id": "51ce08736d6fd5ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Sample.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sample"
+            }
+          },
+          {
+            "id": "a9a043bd6276d24b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roadmap/1. Programing/Java core/Kiến thức cơ bản.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kiến thức cơ bản"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1bacad9388d78ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "5885ae8c55305cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d90a4eedb51176bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a12a25c8b038943e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea17496faa15581d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "right": {
+    "id": "cff0cf6db398ff7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e7021baf928060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1ed45c21b5d6f13",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Roadmap/Backend.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Backend"
+            }
+          },
+          {
+            "id": "d1882b1a702e197e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Roadmap/Backend.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Backend"
+            }
+          },
+          {
+            "id": "3e84f2dadd5b185b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e731403ffb9f5ee9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Roadmap/Backend.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Backend"
+            }
+          },
+          {
+            "id": "66da7c7165e17211",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "756703c2a3b9f593",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "51ce08736d6fd5ef",
+  "lastOpenFiles": [
+    "English/Project.md",
+    "English/Untitled.md",
+    "English/Note toeic.md",
+    "Untitled.md",
+    "TT/GK.md",
+    "TT/Cong nghe tri thuc/Cuoi ki.md",
+    "TT/Công nghệ tri thức nâng cao.md",
+    "TT/Công nghệ mạng.md",
+    "Quick Note/Hoc tren truong.md",
+    "ON PV/Front-end.md",
+    "Untitled",
+    "Note.md",
+    "Roadmap/1. Programing/NET/Untitled.md",
+    "Roadmap/1. Programing/NET/Tổng hợp.md",
+    "Roadmap/1. Programing/Note.md",
+    "Roadmap/1. Programing/NET",
+    "Roadmap/Spring security/Drawing 2024-10-29 22.03.18.excalidraw.md",
+    "Roadmap/2. Database basic/SQL Basic.md",
+    "Roadmap/Ôn pv/Các câu rời rạc/DNS là gì, làm sao nó hoạt động.md",
+    "Roadmap/3. Spring framework/Basic.md",
+    "Roadmap/Ôn pv/Các câu rời rạc/Có thể dùng Post thay thế Get nhưng ngược lại thì không. Vậy nếu Post làm được thế thì sao vẫn cần Get.md",
+    "Roadmap/Ôn pv/Các câu rời rạc/Cái gì xảy ra nếu nhập google vào browser.md",
+    "Roadmap/1. Programing/Algorithms/Backtracking & Recursion/Giai thich.md",
+    "Roadmap/Backend.md",
+    "Roadmap/Note.md",
+    "Roadmap/Todo.md",
+    "Roadmap/Spring security/Các thành phần của spring security.md",
+    "Roadmap/1. Programing/Java core/Kiến thức cơ bản.md",
+    "w.save/image.png",
+    "Roadmap/Spring security",
+    "w.save/Basic-20241017203508546.webp",
+    "w.save/Basic-20241017203437882.webp",
+    "w.save/Basic-20241017202621759.webp",
+    "ON PV",
+    "TT/Cong nghe tri thuc",
+    "w.save/Note-20241001104306640.webp",
+    "w.save/Untitled-20240913214154619.webp",
+    "Excalidraw",
+    "Roadmap/1. Programing/Algorithms/Backtracking & Recursion",
+    "w.save/Abstract vs Interface-20240720211337147.webp",
+    "w.save/Kiến thức cơ bản-20240728202130645.webp",
+    "w.save/Kiến thức cơ bản-20240728201932070.webp",
+    "w.save/Pasted image 20240628191917.png",
+    "TT",
+    "Quick Note",
+    "Roadmap/3. Spring framework",
+    "Untitled.canvas",
+    "Untitled/Untitled.canvas"
+  ]
+}

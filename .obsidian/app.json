@@ -1,0 +1,21 @@
+{
+  "attachmentFolderPath": "w.save",
+  "spellcheck": false,
+  "livePreview": true,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showRibbon": true,
+  "showInlineTitle": true,
+  "foldIndent": true,
+  "showIndentGuide": true
+}

@@ -1,0 +1,1 @@
+GET nó vẫn có chỗ đứng của nó và rất hữu dụng, đơn cử như response từ get cache được, get là idempotent, và browser dùng get khi mình truy cập web sẽ dễ dàng bookmark trang lại hoặc reload lại được (post mà có reload em sẽ thấy poup ngay)
