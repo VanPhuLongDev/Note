@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Sample.md",
+                "file": "Spring Boot/Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample"
+              "title": "Basic"
             }
           },
           {
@@ -212,8 +212,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d90a4eedb51176bc",
+  "active": "51ce08736d6fd5ef",
   "lastOpenFiles": [
+    "Note.md",
+    "Spring Boot/Basic.md",
+    "Spring Boot",
+    "English/Sample.md",
+    "git_sync.bat - Shortcut.lnk",
     "New Text Document.txt",
     "git_sync.bat",
     "English/Project.md",
@@ -227,7 +232,6 @@
     "Quick Note/Hoc tren truong.md",
     "ON PV/Front-end.md",
     "Untitled",
-    "Note.md",
     "Roadmap/1. Programing/NET/Untitled.md",
     "Roadmap/1. Programing/NET/Tổng hợp.md",
     "Roadmap/1. Programing/Note.md",
@@ -242,7 +246,6 @@
     "Roadmap/Backend.md",
     "Roadmap/Note.md",
     "Roadmap/Todo.md",
-    "Roadmap/Spring security/Các thành phần của spring security.md",
     "w.save/image.png",
     "Roadmap/Spring security",
     "w.save/Basic-20241017203508546.webp",
@@ -253,13 +256,10 @@
     "w.save/Note-20241001104306640.webp",
     "w.save/Untitled-20240913214154619.webp",
     "Excalidraw",
-    "Roadmap/1. Programing/Algorithms/Backtracking & Recursion",
     "w.save/Abstract vs Interface-20240720211337147.webp",
     "w.save/Kiến thức cơ bản-20240728202130645.webp",
     "w.save/Kiến thức cơ bản-20240728201932070.webp",
     "w.save/Pasted image 20240628191917.png",
-    "TT",
-    "Quick Note",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
