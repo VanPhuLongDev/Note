@@ -13,11 +13,6 @@ monitor server: [grafana/grafana: The open and composable observability and data
 [Top 25 Spring Security Interview Questions and Answers - InterviewPrep](https://interviewprep.org/spring-security-interview-questions/)
 [40+ JavaScript Interview Questions and Answers (2024) (geeksforgeeks.org)](https://www.geeksforgeeks.org/javascript-interview-questions-and-answers/)
 
+[You should stop using Spring @Autowired - DEV Community](https://dev.to/felixcoutinho/you-should-stop-using-spring-autowired-p8i)
 
 
-
-
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
