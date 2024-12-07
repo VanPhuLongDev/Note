@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 232.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,6 +215,9 @@
   },
   "active": "51ce08736d6fd5ef",
   "lastOpenFiles": [
+    "w.save/Basic-20241207095354326.webp",
+    "w.save/Basic-20241207094834816.webp",
+    "w.save/Basic-20241207093115595.webp",
     "Note.md",
     "Spring Boot/Basic.md",
     "Spring Boot",
@@ -245,7 +249,6 @@
     "Roadmap/1. Programing/Algorithms/Backtracking & Recursion/Giai thich.md",
     "Roadmap/Backend.md",
     "Roadmap/Note.md",
-    "Roadmap/Todo.md",
     "w.save/image.png",
     "Roadmap/Spring security",
     "w.save/Basic-20241017203508546.webp",
@@ -258,8 +261,6 @@
     "Excalidraw",
     "w.save/Abstract vs Interface-20240720211337147.webp",
     "w.save/Kiến thức cơ bản-20240728202130645.webp",
-    "w.save/Kiến thức cơ bản-20240728201932070.webp",
-    "w.save/Pasted image 20240628191917.png",
     "Untitled.canvas",
     "Untitled/Untitled.canvas"
   ]
