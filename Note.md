@@ -22,3 +22,5 @@ monitor server: [grafana/grafana: The open and composable observability and data
 - Collections (Array, ArrayList, Set, Map, so sánh sự khác nhau, ưu nhược điểm của các loại)
 - Java Stream (Lambda, Effective final ,Lazy evaluation, map(), filter(),.... )
 - Java 8/11 features (Optional, Date time, Functional Interface)
+[ChatGPT](https://chatgpt.com/share/455e9ac4-7aaa-471d-b01c-02cdb14b8a9c)
+
