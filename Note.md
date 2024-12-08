@@ -16,3 +16,9 @@ monitor server: [grafana/grafana: The open and composable observability and data
 [You should stop using Spring @Autowired - DEV Community](https://dev.to/felixcoutinho/you-should-stop-using-spring-autowired-p8i)
 
 
+- OOP (4 tính chất cơ bản, ví dụ cho từng tính chất, abstract vs interface, composition vs inheritance, ...)
+- Basic Java (primitive type, boxed type, auto boxing/unboxing, string/string pool, string vs string builder, final keyword, static, ....)
+- Exception Handling (Sơ đồ lớp Exception trong Java, Checked vs Unchecked, try catch finally, throw vs throws, Cách tạo custom exception, Best practice handle exception trong java)
+- Collections (Array, ArrayList, Set, Map, so sánh sự khác nhau, ưu nhược điểm của các loại)
+- Java Stream (Lambda, Effective final ,Lazy evaluation, map(), filter(),.... )
+- Java 8/11 features (Optional, Date time, Functional Interface)
