@@ -24,3 +24,5 @@ monitor server: [grafana/grafana: The open and composable observability and data
 - Java 8/11 features (Optional, Date time, Functional Interface)
 [ChatGPT](https://chatgpt.com/share/455e9ac4-7aaa-471d-b01c-02cdb14b8a9c)
 
+![](w.save/Note-20241209220241010.webp)
+https://chatgpt.com/share/67584989-09a0-8013-a064-2e0ab4f71898
