@@ -107,7 +107,7 @@ Okay, đây là danh sách các câu hỏi trong file cùng với câu trả l�
 60. **Câu hỏi:**  Trong hướng đối tượng có ép kiểu tường minh và ngầm định không?
      *   **Trả lời:** Dạ có, cũng tương tự như việc ép kiểu giữa các kiểu dữ liệu nguyên thủy
 61. **Câu hỏi:** Hai biến tham chiếu có thể trỏ đến cùng 1 đối tượng không?
-    *   **Trả lời:** Dạ có.
+    *   **Trả lời:**   
 62. **Câu hỏi:** Biến tham chiếu được gán `null` nghĩa là gì?
     *   **Trả lời:** Nghĩa là nó không trỏ đến bất kì đối tượng nào trên heap.
 63. **Câu hỏi:** Có khi nào đối tượng không được biến nào trỏ tới không?
