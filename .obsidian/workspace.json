@@ -11,10 +11,14 @@
             "id": "1896ea9ba8b494ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Java/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -181,6 +185,8 @@
   },
   "active": "1896ea9ba8b494ed",
   "lastOpenFiles": [
+    "Java/Untitled.md",
+    "Java",
     "Roadmap/1. Programing/Java core/Kiến thức cơ bản.md",
     "Note.md",
     "w.save/Note-20241209220241010.webp",
@@ -210,7 +216,6 @@
     "TT/Công nghệ mạng.md",
     "Quick Note/Hoc tren truong.md",
     "ON PV/Front-end.md",
-    "Untitled",
     "Roadmap/1. Programing/NET/Untitled.md",
     "Roadmap/1. Programing/NET/Tổng hợp.md",
     "Roadmap/1. Programing/Note.md",
@@ -219,7 +224,6 @@
     "Roadmap/Ôn pv/Các câu rời rạc/DNS là gì, làm sao nó hoạt động.md",
     "Roadmap/3. Spring framework/Basic.md",
     "Roadmap/Ôn pv/Các câu rời rạc/Có thể dùng Post thay thế Get nhưng ngược lại thì không. Vậy nếu Post làm được thế thì sao vẫn cần Get.md",
-    "Roadmap/Ôn pv/Các câu rời rạc/Cái gì xảy ra nếu nhập google vào browser.md",
     "w.save/image.png",
     "Roadmap/Spring security",
     "w.save/Basic-20241017203508546.webp",
