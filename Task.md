@@ -1,0 +1,2 @@
+- [ ] Check authenticationEntryPoint trong config Spring security
+- [ ] 

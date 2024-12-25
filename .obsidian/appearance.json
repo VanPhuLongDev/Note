@@ -3,7 +3,7 @@
   "baseFontSize": 16,
   "theme": "moonstone",
   "interfaceFontFamily": "",
-  "textFontFamily": "Cascadia Code",
+  "textFontFamily": "",
   "enabledCssSnippets": [
     "custom"
   ],

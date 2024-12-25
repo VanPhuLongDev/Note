@@ -61,3 +61,10 @@ Ngoài ra để chỉ định cụ thể ip nào được truy cập thì dùng 
 
 b. Khai báo trong config
 ![](w.save/Spring%20security-20241208154306110.webp)
+
+
+4. Sự khác biệt giữa oauth2ResourceServer và oauth2Login
+- oauth2Login dùng trong Client server. Nghĩa là phải xử lý luồng đăng nhập với google
+- oauth2ResourceServer dùng để xử lý jwt theo chuẩn oauth2, là Resource server. Chỉ làm việc với jwt
+
+-> Kết hợp cả hai khi muốn api đăng nhập bằng google và username + passwork
